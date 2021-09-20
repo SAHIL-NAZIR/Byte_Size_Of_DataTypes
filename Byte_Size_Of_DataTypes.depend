@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632152203 source:c:\sahil nazir\byte_size_of_datatypes\main.c
+	<stdio.h>
+	<stdlib.h>
+
